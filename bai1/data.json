@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Hải Đường",
+        "desc": "Nữ hoàng của các loài hoa.",
+        "img": "haiduong.jpg"
+    },
+    {
+        "name": "Tường Vy",
+        "desc": "Biểu tượng của sự giản dị.",
+        "img": "tuongvy.jpg"
+    },
+    {
+        "name": "Hoa Mai",
+        "desc": "Thanh tao và sang trọng.",
+        "img": "mai.jpg"
+    }
+]
